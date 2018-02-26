@@ -1,3 +1,5 @@
+#Author: Shayantan Banerjee
+#Basic code for noise reduction in the read depth data
 #Assume the data is stored in a dataframe called noise
 library(signal)
 library(prospectr)
